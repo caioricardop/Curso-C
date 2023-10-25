@@ -15,7 +15,7 @@ object valor1 = 8.44m;
 object nome1 = "maria";
 object ativa = true;
 
-Console.WriteLine(nota);
+Console.WriteLine(nota);  
 Console.WriteLine(valor1);
 Console.WriteLine(nome1);
 Console.WriteLine(ativa);
